@@ -15,12 +15,6 @@
     doc 目录下的 beego.sql 是数据库文件
     默认账号：admin 密码：admin
 
-## 后端
-    后台地址：http://work.jishuchi.com/manage/admin
-    测试账号：demo 密码：demowork
-
-## 技术讨论群（530285550）
-
 ## 前端
     只做了测试页面
 
