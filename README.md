@@ -26,9 +26,9 @@
 
 ## 功能截图
 - 后台系统管理（节点管理，用户管理，分组管理，角色管理）
-![image](https://github.com/fishmc/work/doc/img/admin.png)
+![image](https://github.com/fishmc/work/blob/master/doc/img/admin.png)
 - 前端页面
-![image](https://github.com/fishmc/work/doc/img/home.png)
+![image](https://github.com/fishmc/work/blob/master/doc/img/home.png)
 - 主题
-![image](https://github.com/fishmc/work/doc/img/themes.png)
+![image](https://github.com/fishmc/work/blob/master/doc/img/themes.png)
 
